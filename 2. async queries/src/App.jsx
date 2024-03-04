@@ -1,6 +1,6 @@
 import './App.css'
 import { useRecoilState, useRecoilValue } from 'recoil'
-import { notificationSelector, notificationsAtom } from './assets/atom'
+import { notificationSelector, notificationsAtom } from './atom'
 
 
 function App() {
